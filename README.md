@@ -1,4 +1,6 @@
-<h1>Data Analysis Projects - Udacity</h1>
+
+### Investigate-a-Dataset
+### First  project in Data Analysis Projects - Udacity
 <p>During my Data Analysis course at Udacity, I developed several projects. One of them is Investigate a Database, which explores various aspects of a movie database, including cast and crew information and movie metadata.
   </p>
 <h3>It was an incredible learning experience diving deep into data exploration, visualization, and storytelling. Some key takeaways from the project:</h3>
